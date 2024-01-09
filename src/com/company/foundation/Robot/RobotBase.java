@@ -10,7 +10,7 @@ import com.company.foundation.items.PortalGenerator;
 import com.company.foundation.pathways.Door;
 import com.company.foundation.pathways.Portal;
 
-import java.util.ArrayList;;
+import java.util.ArrayList;
 import java.util.function.Supplier;
 
 public abstract class RobotBase {
